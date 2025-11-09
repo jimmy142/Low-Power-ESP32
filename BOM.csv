@@ -1,0 +1,20 @@
+LCSC Part Number,Manufacture Part Number,Manufacturer,Customer NO.,Package,Description,RoHS,Quantity,Unit Price($),Ext.Price($),Estimated lead time (business days),Date Code / Lot No.,Status
+C2933509,FRC0805F9102TS,FOJAN,,0805,125mW 91kΩ 150V ±100ppm/℃ Thick Film Resistor ±1% 0805 Chip Resistor - Surface Mount RoHS,YES,100,0.0018,0.18,,,-
+C2691448,PZ254V-11-04P,XFCN,,"Through Hole,P=2.54mm","4P 1x4P -40℃~+105℃ Black Pin Header 2.54mm 2.5mm 6mm 250V 3mm 1 3A Through Hole Through Hole,P=2.54mm Headers, Male Pins RoHS",YES,20,0.0214,0.43,,,-
+C720477,TS-1088-AR02016,XUNPU,,"SMD,4x3mm","Without Bracket 4mm 12V 3mm Round Button SPST 50mA SMD,4x3mm Tactile Switches RoHS",YES,20,0.0437,0.87,,,-
+C2913198,ESP32-S3-WROOM-1-N8,ESPRESSIF,,"SMD,25.5x18mm","2.4GHz ESP32-S3 Chip SMD,25.5x18mm RF Transceiver Modules and Modems RoHS",YES,2,5.2821,10.56,,,-
+C42431810,PH2.54-1X10P-H25,JXTCONN,,"Through Hole,P=2.54mm","10P 1x10P Gold Brass -40℃~+105℃ Pin Header Black 2.54mm 2.5mm 6mm 3mm 3A 1 Through Hole Through Hole,P=2.54mm Headers, Male Pins RoHS",YES,10,0.0243,0.24,,,-
+C2765186,TYPE-C 16PIN 2MD(073),SHOU HAN,,SMD,"1 16P -25℃~+85℃ Type-C SMD USB, DVI, HDMI Connector Assemblies RoHS",YES,10,0.058,0.58,,,-
+C1849531,TPS63802DLAT,TI,,VSON-10(2x3),2.1MHz Buck-Boost 2A Adjustable 1.8V~5.2V 1 VSON-10(2x3) Voltage Regulators - DC DC Switching Regulators RoHS,YES,5,0.7614,3.81,,,-
+C2907329,FRC0805J471 TS,FOJAN,,0805,125mW 470Ω 150V ±100ppm/℃ Thick Film Resistor ±5% 0805 Chip Resistor - Surface Mount RoHS,YES,100,0.0014,0.14,,,-
+C625600,MCP73831T-5ACI/OT,MICROCHIP,,SOT-23-5,3.75V~6V Lithium Battery 1 550mA SOT-23-5 Battery Chargers ICs RoHS,YES,5,1.5685,7.84,,,-
+C27834,0805W8F5101T5E,UNI-ROYAL,,0805,125mW 5.1kΩ 150V ±100ppm/℃ Thick Film Resistor ±1% 0805 Chip Resistor - Surface Mount RoHS,YES,100,0.0019,0.19,,,-
+C98192,CL21A475KBQNNNE,Samsung Electro-Mechanics,,0805,50V 4.7uF X5R ±10% 0805 Ceramic Capacitors RoHS,YES,100,0.0158,1.58,,,-
+C5159719,FRC0805F5113TS,FOJAN,,0805,125mW 511kΩ 150V ±100ppm/℃ Thick Film Resistor ±1% 0805 Chip Resistor - Surface Mount RoHS,YES,100,0.0017,0.17,,,-
+C96346,RC0805FR-07100KL,YAGEO,,0805,125mW 100kΩ 150V ±100ppm/℃ Thick Film Resistor ±1% 0805 Chip Resistor - Surface Mount RoHS,YES,100,0.0022,0.22,,,-
+C2907248,FRC0805F2001TS,FOJAN,,0805,125mW 2kΩ 150V ±100ppm/℃ Thick Film Resistor ±1% 0805 Chip Resistor - Surface Mount RoHS,YES,100,0.0018,0.18,,,-
+C965815,XL-2012UGC,XINGLIGHT,,0805,20mA 750mcd 515nm~535nm op View Mount Emerald Green 3.2V 70mW 0805 LED Indication - Discrete RoHS,YES,100,0.0056,0.56,,,-
+C18221164,XFL4015-471MEC,Coilcraft,,"SMD,4x4mm","470nH ±20% SMD,4x4mm Fixed Inductors RoHS",YES,5,1.4285,7.14,,,-
+C28323,CL21B105KBFNNNE,Samsung Electro-Mechanics,,0805,50V 1uF X7R ±10% 0805 Ceramic Capacitors RoHS,YES,100,0.0092,0.92,,,-
+C15850,CL21A106KAYNNNE,Samsung Electro-Mechanics,,0805,25V 10uF X5R ±10% 0805 Ceramic Capacitors RoHS,YES,100,0.0112,1.12,,,-
+C602037,CL21A226MAYNNNE,Samsung Electro-Mechanics,,0805,25V 22uF X5R ±20% 0805 Ceramic Capacitors RoHS,YES,100,0.0179,1.79,,,-
